@@ -1,0 +1,1 @@
+A markdown of the jupyter notebook is included, in case there are environment issues or some other problem. Feel free to reference the text and images in that folder if anything in the notebook itself has issue. Thanks!
